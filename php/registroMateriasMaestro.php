@@ -119,7 +119,9 @@
               <th>Modificar evento</th>
               <th>Eliminar evento</th>
             </thead>
-            11111
+            <p>
+              hola putin
+            </p>
             <tbody>
               <?php $tabla = 1;
               }
